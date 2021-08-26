@@ -1,0 +1,18 @@
+/* body{
+    background: url(bg.jpg) bottom center no-repeat;
+} */
+.totalsales{
+    text-align: right;   
+}
+.bookticket{
+    float: left;
+    text-align: left;
+    width: 40%;
+}
+.buses{
+    text-align: right;
+}
+.busess{
+    float: right;
+    width: 30%;
+}
